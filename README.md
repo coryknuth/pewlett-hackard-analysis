@@ -7,7 +7,7 @@ Pewlett Hackard asked us to take a close look at the employee database and see w
 - There are over 90,000 employees eligible for retirement in the near future
 - Nearly 60,000 of those are Senior Staff or Senior Engineers
 
-<img src="https://github.com/coryknuth/pewlett-hackard-analysis/blob/2aae5e215bbc5ad9f08cecfd0fbe17406a1c6f9b/retiring_titles.png" width="600" />
+<img src="https://github.com/coryknuth/pewlett-hackard-analysis/blob/2aae5e215bbc5ad9f08cecfd0fbe17406a1c6f9b/retiring_titles.png" width="300" />
 
 - Almost 50,000 of those soon retiring are skilled technical positions
 - We compiled a list of 1,500 employees who would be suitable mentors for new incoming employees
